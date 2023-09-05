@@ -1,5 +1,5 @@
 # image-classifier
-This project's goal is to build an Artificial Neural Network that recognizes objects that you hold into the webcam.
+This project's goal is to recognize objects in the webcam by training them using a Convolutional Neural Network
 
 The trained images here are:
 - bottles
